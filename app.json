@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "description": "a game of tic tac toe",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
