@@ -11,4 +11,5 @@ var playerData = Spark.runtimeCollection("playerData"); // get the collection da
 var currentPlayer = playerData.findOne({
 	"playerID": Spark.getPlayer().getPlayerId()
 }); // search the collection data for the entry with the same id as the player
+var notUsed = 10; // this variable is not used
 Spark.setScriptData("player_Data", currentPlayer); // return the player via script-data
