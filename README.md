@@ -1,2 +1,9 @@
-# tic-tac-toe
-a backend for the classic tic-tac-toe written in golang
+# Tic-Tac-Toe
+
+Built with the @engine SDK (TypeScript IL game spec).
+
+## Controls
+
+- Arrow keys / WASD: Movement
+- Space / Enter: Select / Action
+- R: Restart
